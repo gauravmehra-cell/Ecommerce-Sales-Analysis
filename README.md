@@ -75,3 +75,7 @@ The dashboard includes:
 - `ecommerce_sales_analysis.sql` – SQL database setup, sample data, and analysis queries
 - `Ecommerce_Sales_Analysis.pbix` – Power BI dashboard
 - `README.md` – Project documentation
+
+ ## Dashboard
+
+![E-Commerce Sales Analysis Dashboard](dashboard.png)
